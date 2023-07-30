@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">stock_predictor</string>
+    <string name="predict">Get live price</string>
+    <string name="stats">Stats</string>
+    <string name="loading">...</string>
+    <string name="graphhead">Based on last 60 days.</string>
+    <string-array name="stocknames">
+        <item>IBM Inc.</item>
+        <item>Google</item>
+        <item>Facebook</item>
+        <item>Tesla</item>
+        <item>Netflix</item>
+        <item>Amazon</item>
+        <item>Apple</item>
+    </string-array>
+    <string-array name="stocksymbol">
+        <item>IBM</item>
+        <item>GOOGL</item>
+        <item>FB</item>
+        <item>TSLA</item>
+        <item>NFLX</item>
+        <item>AMZN</item>
+        <item>AAPL</item>
+    </string-array>
+    <string name="alert">AlertDialog</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+    <string name="search_hint">Search stocks</string>
+    <string name="mainlist">NASDAQ</string>
+    <string name="main_nse">NSE</string>
+    <string name="main_bse">BSE</string>>
+    <string name="main_nyse">NYSE</string>
+    <string name="error">"Error, Try again"</string>
+</resources>
